@@ -1,4 +1,4 @@
-# vARsity
+# Auto Referee
 
 Even though rudimentary video assistant referees for soccer is already implemented in FIFA sanctioned soccer tournaments, the cost of installation for goal-line technology, a small subset of the video assistant referee ecosystem starts from [300,000 USD](https://www.engadget.com/2017/08/01/fifa-var-goal-line-technology-future-of-soccer/?guccounter=1). We are trying to legitimize soccer games around the world that can't themselves afford this technology.
 
